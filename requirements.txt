@@ -15,7 +15,7 @@ coloredlogs==10.0
 sanic==19.12.2
 sanic-cors==0.10.0
 sanic-jwt==1.3.2
-aiohttp==3.6.2
+aiohttp==3.7.4
 scikit-learn==0.22.2
 rasa_nlu~=0.15.0
 webexteamssdk==1.1.1
