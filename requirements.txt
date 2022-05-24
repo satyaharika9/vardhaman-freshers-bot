@@ -6,7 +6,7 @@ numpy==1.18.1
 scipy==1.4.1
 typing==3.6.6
 ruamel.yaml==0.16.10
-tensorflow-cpu==2.1.0
+tensorflow-cpu==2.6.4
 apscheduler==3.6.3
 tqdm==4.45.0
 networkx==2.4
