@@ -2,7 +2,7 @@
 attrs==19.3.0
 jsonpickle==1.4.1
 redis==3.5.3
-numpy==1.18.1
+numpy==1.22.0
 scipy==1.4.1
 typing==3.6.6
 ruamel.yaml==0.16.10
